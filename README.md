@@ -1,3 +1,3 @@
 # EdgeLedger
-What did I learn?
+What did I learn by creating this?
 -Flexbox
