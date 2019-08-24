@@ -1,4 +1,4 @@
 # EdgeLedger
 What did I learn by creating this?
--CSS Flexbox
+-Flexbox
 -Smooth Scrolling using JQuery CDN
